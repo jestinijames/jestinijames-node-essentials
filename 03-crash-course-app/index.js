@@ -1,3 +1,6 @@
+// to use es6 import export type we need to add type: "module" in package.json
+//import {getPosts} from './postController.js';
+
 //console.log("Hello World!!")
 
 //SINGLE IMPORT
